@@ -1,1 +1,1 @@
-emacs <nameOfFile>
+M-x server-start
